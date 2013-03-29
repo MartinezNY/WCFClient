@@ -8,7 +8,7 @@ namespace WcfServiceClient
     class Program
     {
         /// <summary>
-        /// Test 2
+        /// Test Maria
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
