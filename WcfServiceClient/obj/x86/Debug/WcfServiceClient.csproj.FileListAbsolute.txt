@@ -1,0 +1,9 @@
+c:\users\developer\documents\visual studio 2010\Projects\WcfServiceClient\WcfServiceClient\bin\Debug\WcfServiceClient.exe.config
+c:\users\developer\documents\visual studio 2010\Projects\WcfServiceClient\WcfServiceClient\bin\Debug\WcfServiceClient.exe
+c:\users\developer\documents\visual studio 2010\Projects\WcfServiceClient\WcfServiceClient\bin\Debug\WcfServiceClient.pdb
+c:\users\developer\documents\visual studio 2010\Projects\WcfServiceClient\WcfServiceClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\developer\documents\visual studio 2010\Projects\WcfServiceClient\WcfServiceClient\obj\x86\Debug\WcfServiceClient.exe
+c:\users\developer\documents\visual studio 2010\Projects\WcfServiceClient\WcfServiceClient\obj\x86\Debug\WcfServiceClient.pdb
+C:\Users\developer\Dropbox\Projects\WcfServiceClient\WcfServiceClient\bin\Debug\WcfServiceClient.exe.config
+C:\Users\developer\Dropbox\Projects\WcfServiceClient\WcfServiceClient\obj\x86\Debug\WcfServiceClient.exe
+C:\Users\developer\Dropbox\Projects\WcfServiceClient\WcfServiceClient\obj\x86\Debug\WcfServiceClient.pdb

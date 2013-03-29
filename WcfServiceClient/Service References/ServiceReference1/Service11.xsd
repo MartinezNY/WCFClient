@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="GetData">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="value" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetDataResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="GetDataResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PutData">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="UserID" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Interest" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="TXNPrice" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="TXNTax" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="TXNAmount" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Type" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="StartTime" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Duration" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="NoOfMale" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="NoOfFemale" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="NoOfKid" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="BabySeat" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Trailer" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Tandem" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="auth_code" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="transactionID" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="First" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Last" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PutDataResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PutDataResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
